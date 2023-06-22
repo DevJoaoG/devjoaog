@@ -13,7 +13,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Resumo
-Desenvolvedor Front-End com conhecimentos em technologies como HTML5, CSS e JAVASCRIPT, atualmente desenvolvendo portfólio e aprendizado.
-Formação em Tecnologia em andamento (estimativa de graduação em Abril de 2024).
+Atuando como Web Designer, e aprimorando habilidades na criação de sites e landing pages com interfaces intuitivas epensadas na experiência do usuário.
 
-Hoje meu maior foco é no desenvolvimento WEB com HTML, CSS e JAVASCRIPT, e adquirir experiências desenvolvendo projetos em meu portfólio.
+Recentemente fiz uma transição em minhacarreira para o desenvolvimento FrontEnd. Minha especialidade inclui HTML, CSS & JavaScript.
