@@ -13,6 +13,5 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Resumo
-Atuando como Web Designer, e aprimorando habilidades na criação de sites e landing pages com interfaces intuitivas epensadas na experiência do usuário.
 
-Recentemente fiz uma transição em minhacarreira para o desenvolvimento FrontEnd. Minha especialidade inclui HTML, CSS & JavaScript.
+Sou desenvolvedor web focado no front-end, com experiência em design de interfaces intuitivas e voltadas para a experiência do usuário. Após atuar como Web Designer, realizei uma transição de carreira para o desenvolvimento front-end e atualmente crio landing pages otimizadas para uma equipe de corretores de imóveis em Porto de Galinhas. Tenho familiaridade com ferramentas como Wix e estou constantemente aprimorando minhas habilidades para entregar soluções eficientes e atrativas.
